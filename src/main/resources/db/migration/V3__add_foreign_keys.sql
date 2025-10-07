@@ -1,0 +1,2 @@
+ALTER TABLE t_dimdim_categoria ADD CONSTRAINT FK_CATEGORIA_USUARIO FOREIGN KEY (usuario_categoria_id) REFERENCES t_dimdim_usuario(id_usuario);
+ALTER TABLE t_dimdim_lancamento ADD CONSTRAINT FK_LANCAMENTO_CATEGORIA FOREIGN KEY (categoria_lancamento_id) REFERENCES t_dimdim_categoria(id_categoria);
