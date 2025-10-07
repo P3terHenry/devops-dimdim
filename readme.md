@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# 💰 Challenge – Dimdim – DevOps – Web App Service – Finance App
+# 💰 CheckPoint – Dimdim – DevOps – Web App Service – Finance App
 
 ## 🧑‍🤝‍🧑 Informações dos Contribuintes
 
