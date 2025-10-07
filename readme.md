@@ -306,8 +306,8 @@ az webapp deployment github-actions add \
 3. Adicione os secrets abaixo (um de cada vez):
 
 ```ini
-SPRING_DATASOURCE_URL=jdbc:sqlserver://sql-server-find-mottu.database.windows.net:1433;databaseName=db-find-mottu;encrypt=true;trustServerCertificate=false;loginTimeout=30;
-SPRING_DATASOURCE_USERNAME=user-find-mottu
+SPRING_DATASOURCE_URL=jdbc:sqlserver://sql-server-dimdim.database.windows.net:1433;databaseName=db-dimdim;encrypt=true;trustServerCertificate=false;loginTimeout=30;
+SPRING_DATASOURCE_USERNAME=user-dimdim
 SPRING_DATASOURCE_PASSWORD=Fiap@2tdsvms
 SPRING_JPA_DATABASE_PLATFORM=org.hibernate.dialect.SQLServerDialect
 SPRING_JPA_HIBERNATE_DDL_AUTO=update
