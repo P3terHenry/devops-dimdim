@@ -83,7 +83,8 @@ O deploy é feito via **GitHub Actions** configurado com as variáveis de ambien
 
 ## 🎥 Youtube
 
-Apresentação do projeto no Youtube: 
+Apresentação do projeto no Youtube: https://youtu.be/yqMnHaFaeyM
+
 <p align="right"><a href="#readme-top">Voltar ao topo</a></p>
 
 ---
